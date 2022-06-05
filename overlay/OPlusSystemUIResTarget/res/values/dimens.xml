@@ -35,4 +35,6 @@
     <dimen name="tri_state_up_dialog_position_deep">32px</dimen>
     <dimen name="tri_state_up_dialog_position_deep_land">28px</dimen>
 
+    <!-- Location on the screen of the center of the physical power button. -->
+    <dimen name="physical_power_button_center_screen_location_y">1300px</dimen>
 </resources>
