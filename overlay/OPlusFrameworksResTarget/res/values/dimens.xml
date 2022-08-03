@@ -9,7 +9,7 @@
          Do not read this dimen directly. Use {@link SystemBarUtils#getStatusBarHeight} instead.
          -->
     <dimen name="status_bar_height_default">28dp</dimen>
-    <dimen name="status_bar_height_portrait">152px</dimen>
+    <dimen name="status_bar_height_portrait">142px</dimen>
     <dimen name="status_bar_height_landscape">28dp</dimen>
 
     <!-- Default radius of the software rounded corners. -->
