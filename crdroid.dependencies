@@ -5,6 +5,7 @@
   },
   {
     "repository": "crdroidandroid/proprietary_vendor_oneplus-lemonadep",
-    "target_path": "vendor/oneplus/lemonadep"
+    "target_path": "vendor/oneplus/lemonadep",
+    "remote": "crdroid-gitlab"
   }
 ]
