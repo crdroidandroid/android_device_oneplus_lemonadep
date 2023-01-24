@@ -95,6 +95,9 @@ odm/vendor/firmware/iris5.fw
 odm/vendor/firmware/iris5_ccf1.fw
 odm/vendor/firmware/iris5_ccf2.fw
 
+# Media
+odm/etc/media_profiles_V1_0.xml
+
 # Sensors
 odm/etc/sensor/config/lahaina_aw9610x_0.json
 odm/etc/sensor/config/lahaina_aw9610x_down_0.json
