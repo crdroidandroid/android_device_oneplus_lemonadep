@@ -423,9 +423,9 @@
     <ctl name="SWR_MIC2 HIFI PortMap" value="ZERO" />
     <ctl name="SWR_MIC3 HIFI PortMap" value="ZERO" />
 
-    <!-- Volume controls -->
-    <ctl name="WSA_RX0 Digital Volume" value="90" />
-    <ctl name="WSA_RX1 Digital Volume" value="90" />
+    <!-- Safe Volume controls -->
+    <ctl name="WSA_RX0 Digital Volume" value="88" />
+    <ctl name="WSA_RX1 Digital Volume" value="88" />
     <ctl name="RX_RX0 Digital Volume" value="88" />
     <ctl name="RX_RX1 Digital Volume" value="88" />
     <ctl name="RX_RX2 Digital Volume" value="88" />
